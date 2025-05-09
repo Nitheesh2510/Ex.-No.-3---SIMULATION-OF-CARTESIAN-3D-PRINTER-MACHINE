@@ -49,6 +49,7 @@
 
 ## Expected OUTPUT
 ![Screenshot 2025-05-09 150924](https://github.com/user-attachments/assets/e8c21636-59e5-414a-b698-739278e4f5d1)
+### OUTPUT
 ## X axis assembly
 
 ![Screenshot 2025-05-09 151517](https://github.com/user-attachments/assets/d2bdf5b0-1009-4153-b681-94d4c0f32cb5)
@@ -69,8 +70,7 @@
 ## playing with axis
 ![image](https://github.com/user-attachments/assets/672480f5-68cd-4626-8c38-e8329c87cbc4)
 
-## Output:
-![image](https://github.com/user-attachments/assets/d4f6a50a-bd76-4132-9f07-1478afe2431e)
+
 
 
 ### Name: Nitheesh Kumar B
